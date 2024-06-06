@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T10:15:19.925Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="trHtV3NhI_u79Ky7m9Io" version="24.4.14" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-06T10:15:52.856Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="1AR9RIe73bCR10p_h1bl" version="24.4.14" type="github">
   <diagram name="第 1 页" id="SwL3U8M1bM2HicuCUBdc">
-    <mxGraphModel dx="1434" dy="756" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="756" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,10 +76,10 @@
         <mxCell id="frlS9GGQCYEtluOQWDQ7-2" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;地图控件&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="16" y="585" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="frlS9GGQCYEtluOQWDQ7-6" value="&lt;font style=&quot;font-size: 29px;&quot;&gt;删除高校&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+        <mxCell id="frlS9GGQCYEtluOQWDQ7-6" value="&lt;font style=&quot;font-size: 29px;&quot;&gt;删除收藏&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="688" y="585" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="frlS9GGQCYEtluOQWDQ7-7" value="&lt;font style=&quot;font-size: 29px;&quot;&gt;添加高校&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+        <mxCell id="frlS9GGQCYEtluOQWDQ7-7" value="&lt;font style=&quot;font-size: 29px;&quot;&gt;添加收藏&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="604" y="585" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="d9LXnBX2CzVpWKMC7Jwt-1" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;简介显示&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
