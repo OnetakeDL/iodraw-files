@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T15:31:58.094Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.4.14" etag="OhHITVsp0pdOM2NLMlGs" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-06T15:32:50.405Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.4.14" etag="SS390EjhkDSO2KLEK90n" type="github">
   <diagram id="pouhOs65zdIjZ61fYsDE" name="第 1 页">
     <mxGraphModel dx="2261" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
         <mxCell id="eKSFjAoweTjjWP4cawlm-1" value="特殊配对" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="960" y="410" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eKSFjAoweTjjWP4cawlm-3" value="个人页面" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="eKSFjAoweTjjWP4cawlm-3" value="地图控件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="-170" y="600" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eKSFjAoweTjjWP4cawlm-6" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;fontSize=17;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CmrCUiW3oN5Ov_e-8Gui-2" target="eKSFjAoweTjjWP4cawlm-1">
